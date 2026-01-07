@@ -1,4 +1,4 @@
 user="Amelia"
 print('Hello')
-print('Hello, User')
+print(f'Hello, {user}')
 print(f'User name:{user}')
